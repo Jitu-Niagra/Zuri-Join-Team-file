@@ -1,0 +1,26 @@
+.logo{
+    width: 2rem;
+    height: 2rem;
+}
+.navbar{
+    background-color: #C4C4C4 !important;
+}
+.nav-link{
+    color: black !important;
+}
+.join-form{
+position: absolute;
+width: 724.13px;
+height: 712px;
+left: 358px;
+top: 121px;
+}
+.card-header p{
+
+}
+.card-header,.card-footer,.btn-primary{
+    background-color: #00D8E0 ;
+}
+.card,.btn-primary{
+    border: none !important;
+}
